@@ -18,8 +18,8 @@ Inspiration from https://www.instructables.com/Arduino-TEA5767-FM-Radio-Receiver
  - 10KΩ potentiometer
 
 # Wiring
-sorry if the wireing diaram is bad
+Sorry if the wireing diaram is bad
 
 ![image](https://github.com/user-attachments/assets/b9418515-1cf4-4fb1-9107-c46b3a47d177)
 
-made with https://www.circuit-diagram.org
+Made with https://www.circuit-diagram.org
