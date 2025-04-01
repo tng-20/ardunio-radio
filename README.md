@@ -1,6 +1,7 @@
 # Ardunio radio
 Code for my ardunio based radio. NCFE creative design and production.<br>
-inspiration from https://www.instructables.com/Arduino-TEA5767-FM-Radio-Receiver/
+Code might be bad, I mainly use python.<br>
+Inspiration from https://www.instructables.com/Arduino-TEA5767-FM-Radio-Receiver/
 
 # Required libaries
  - LiquidCrystal_I2C --> https://github.com/johnrickman/LiquidCrystal_I2C
