@@ -5,7 +5,7 @@ Inspiration from https://www.instructables.com/Arduino-TEA5767-FM-Radio-Receiver
 
 # Required libaries
  - LiquidCrystal_I2C --> https://github.com/johnrickman/LiquidCrystal_I2C
- - TEA5767 libary made with chatGPT 4o
+ - TEA5767 libary made with chatGPT 4o or you could use https://github.com/andykarpov/TEA5767
 
 # Parts list
  - Ardunio Pro Micro (5v) or similar

@@ -45,8 +45,7 @@ void loop() {
     }
 }
 
-
-
+//Functions for TEA5767
 
 void setFrequency(float freq) {
     uint16_t freqB = (4 * ((freq * 1000000) + 225000)) / 32768;
